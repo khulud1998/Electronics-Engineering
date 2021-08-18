@@ -1,9 +1,7 @@
 # Electronics-SmartMethods
 ![images](https://user-images.githubusercontent.com/74243095/129967215-b4c9d955-a830-40f3-a590-098434d4a12b.jpg)
 # First Task 
-### Designing a circuit of 5 servo motors [Done ](https://github.com/khulud1998/Electronics-Engineering/blob/main/%20Design%20Five%20servo%20motors%20.pdf), [Run the circuit Video](https://user-images.githubusercontent.com/74243095/129968505-0dcc3530-839d-4f67-8bfa-efdab0c091a6.mov
-
-)
+### Designing a circuit of 5 servo motors [Done ](https://github.com/khulud1998/Electronics-Engineering/blob/main/%20Design%20Five%20servo%20motors%20.pdf), [Run the circuit Video]()
 ### Program the circuit to move at 90 degree [Done]() 
 ### Program the servo motors to move using Variable Resistors (potentiometer) [Done ]()
 ### [Video For Moving the servo motors depending on the variable resistors ]()
